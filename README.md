@@ -21,3 +21,4 @@ This code is a Python Flask application that serves as an API for retrieving mov
 
 In summary, this code sets up a Flask API that requires an API key for accessing movie details. It provides two routes, one for retrieving details about a specific movie and another for retrieving a list of movies based on certain criteria.
 8. We get the link on the output we post it on postman and send get request we get these outputs 
+As a whole first install any python workspace and install postman and install required libraries and then run the code and get the url after running the code and copy paste the url in postman and send get request so that we the all outputs as mentioned above in screen shots
